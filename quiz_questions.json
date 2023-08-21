@@ -1,0 +1,56 @@
+[{
+    "question": "Was sagt man, wenn man jemanden zum ersten Mal trifft?",
+    "options": ["Auf Wiedersehen", "Guten Appetit", "Freut mich", "Gute Nacht"],
+    "answers": [2]
+},
+{
+    "question": "Wie sagt man 'Enjoy your meal' auf Deutsch?",
+    "options": ["Guten Appetit", "Guten Morgen", "Guten Tag", "Danke"],
+    "answers": [0]
+},
+{
+    "question": "Was bedeutet 'Freut mich'?",
+    "options": ["Goodbye", "Nice to meet you", "Thank you", "Yes"],
+    "answers": [1]
+},
+{
+    "question": "Wie sagt man 'See you later' auf Deutsch?",
+    "options": ["Bis später", "Guten Tag", "Danke", "Nein"],
+    "answers": [0]
+},
+{
+    "question": "Was sagt man, wenn man jemanden nach einer Weile wieder trifft?",
+    "options": ["Guten Morgen", "Lange nicht gesehen", "Guten Tag", "Auf Wiedersehen"],
+    "answers": [1]
+},
+{
+    "question": "Wie antwortet man auf 'Bis später'?",
+    "options": ["Bitte", "Nein", "Ja", "Bis dann"],
+    "answers": [3]
+},
+{
+    "question": "Was bedeutet 'Bis dann'?",
+    "options": ["See you then", "No", "Thank you", "Hello"],
+    "answers": [0]
+},
+{
+    "question": "Wie sagt man 'Welcome' auf Deutsch?",
+    "options": ["Willkommen", "Guten Morgen", "Guten Tag", "Danke"],
+    "answers": [0]
+},
+{
+    "question": "Was sagt man, wenn jemand niest?",
+    "options": ["Guten Morgen", "Gesundheit", "Guten Tag", "Auf Wiedersehen"],
+    "answers": [1]
+},
+{
+    "question": "Wie antwortet man auf 'Gesundheit'?",
+    "options": ["Bitte", "Danke", "Ja", "Hallo"],
+    "answers": [1]
+},
+{
+    "question": "Was bedeutet 'Willkommen'?",
+    "options": ["Yes", "No", "Thank you", "Welcome"],
+    "answers": [3]
+}
+]
